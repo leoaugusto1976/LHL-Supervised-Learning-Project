@@ -1,10 +1,11 @@
 # Machine Learning: Project Supervised Learning
 
-## Project Outcomes
+## Lighthouse Labs Instructions
+### Project Outcomes
 - Supervised Learning: use supervised learning techniques to build a machine learning model that can predict whether a patient has diabetes or not, based on certain diagnostic measurements.The project involves three main parts: exploratory data analysis, preprocessing and feature engineering, and training a machine learning model. 
-### Duration:
+#### Duration:
 Approximately 3 hours and 20 minutes.
-### Project Description:
+#### Project Description:
 In this projects, you will apply supervised learning techniques to a real-world data set and use data visualization tools to communicate the insights gained from the analysis.
 
 The data set for this project is the "Diabetes" dataset from the National Institute of Diabetes and Digestive and Kidney Diseases 
@@ -15,9 +16,9 @@ The project will involve the following tasks:
 
 The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked."
 
-## Project Structure
+## My Project Structure
 
-Here is the structure of files and folders in this project:
+Here is the structure of files and folders in my project:
 
 - **Root Directory**
   - [Supervised Learning - Project.ipynb](https://github.com/leoaugusto1976/LHL-Supervised-Learning-Project/blob/main/Supervised%20Learning%20-%20Project.ipynb): The main Jupyter Notebook containing the project. It is divided into four parts:
