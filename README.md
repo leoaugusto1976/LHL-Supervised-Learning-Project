@@ -1,4 +1,4 @@
-# machine_learning_project-supervised-learning
+# Machine Learning: Project Supervised Learning
 
 ## Project Outcomes
 - Supervised Learning: use supervised learning techniques to build a machine learning model that can predict whether a patient has diabetes or not, based on certain diagnostic measurements.The project involves three main parts: exploratory data analysis, preprocessing and feature engineering, and training a machine learning model. 
