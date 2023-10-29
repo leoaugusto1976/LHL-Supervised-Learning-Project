@@ -15,4 +15,24 @@ The project will involve the following tasks:
 
 The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked."
 
-Go to the file: "Supervised Learning - Project.ipynb"
+## Project Structure
+
+Here is the structure of files and folders in this project:
+
+- **Root Directory**
+  - [Supervised Learning - Project.ipynb](https://github.com/leoaugusto1976/LHL-Supervised-Learning-Project/blob/main/Supervised%20Learning%20-%20Project.ipynb): The main Jupyter Notebook containing the project. It is divided into four parts:
+    - Part I : EDA - Exploratory Data Analysis
+    - Part II : Preprocessing & Feature Engineering
+    - Part III : Training ML Model
+    - Part IV : Conclusion
+  
+- **Data Folder**
+  - [diabetes.csv](https://github.com/leoaugusto1976/LHL-Supervised-Learning-Project/blob/main/data/diabetes.csv): The dataset file used in the project.
+
+- **Notebooks Folder**
+  - [1.diabetes.ipynb](https://github.com/leoaugusto1976/LHL-Supervised-Learning-Project/blob/main/notebooks/1.diabetes.ipynb): A Jupyter Notebook related to diabetes data analysis.
+  - [2.data_analysis.ipynb](https://github.com/leoaugusto1976/LHL-Supervised-Learning-Project/blob/main/notebooks/2.data_analysis.ipynb): A Jupyter Notebook for data analysis.
+  - [3.feature_engineering.ipynb](https://github.com/leoaugusto1976/LHL-Supervised-Learning-Project/blob/main/notebooks/3.feature_engineering.ipynb): A Jupyter Notebook focusing on feature engineering.
+  - [4.machine_learning.ipynb](https://github.com/leoaugusto1976/LHL-Supervised-Learning-Project/blob/main/notebooks/4.machine_learning.ipynb): A Jupyter Notebook dedicated to machine learning.
+
+Feel free to explore each file and folder for more details on the project.
